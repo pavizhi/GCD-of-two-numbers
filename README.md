@@ -34,7 +34,7 @@ def gcd():
 ```
 
 ## Output:
-![output](.//Twonumbers.png)
+![output](./Twonumbers.png)
 
 
 ## Result:
